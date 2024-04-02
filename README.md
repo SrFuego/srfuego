@@ -8,7 +8,7 @@ I’m looking to collaborate on awesome innovative projects 🤝
 
 I’m currently learning Behavior Driven Development with Gherkin 🌱 
 
-I like to build things with distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
+I like to build things with distributed systems, SQL and NoSQL databases, Docker, Python, Flutter, modern backend APIs, and modern frontend frameworks. 🤖
 
 Ask me about anything from Web Development with Python 💬 
 
